@@ -30,7 +30,7 @@ Before installation, ensure your device meets **ALL** of the following requireme
 
 ### ⚙️ Installation Guide
 
-1.  Download the module's `.zip` file from the [Releases](https://github.com/trinhtantin/GalaxyAI-ZFlip3/releases/tag/V1.0.0) page.
+1.  Download the module's `.zip` file from the [Releases](https://github.com/trinhtantin/GalaxyAI-ZFlip3/releases) page.
 2.  Open the **Magisk** or **KernelSU** app.
 3.  Go to the `Modules` section.
 4.  Tap `Install from storage` and select the `.zip` file you just downloaded.
